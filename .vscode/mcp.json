@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "pr-messages-generator": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "/home/dti-dev/Projetos/MCP-PR-Messages-Generator/build/index.js"
+      ]
+    }
+  }
+}
